@@ -1,4 +1,5 @@
 ## Schedule
+
 | Meeting Date: | Location: | Chapter(s) to read before meeting:|	Page numbers:|	Possible practical work to do before meeting:|
 | ------------- | ------------- || ------------- | ------------- || ------------- | 
 |June 6	|		TBD | Intro, Ch. 1		|			ix – 27	|		None!|
